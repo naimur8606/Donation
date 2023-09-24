@@ -1,0 +1,134 @@
+[
+    {
+        "category_name": "Healthcare",
+        "title": "Medical Supplies",
+        "description": "Provide essential medical supplies to children in need for their health and well_being.",
+        "price": 50.00,
+        "image": "https://i.ibb.co/ckq2n08/Health.png",
+        "id": "campaign101",
+        "bg_color": "#d9e5ff",
+        "category_bg_color": "#aec8ff",
+        "text_color": "#0052ff"
+    },
+    {
+        "category_name": "Education",
+        "title": "Scholarships for Students",
+        "description": "Support underprivileged students by offering scholarships to help them access quality education.",
+        "price": 75.00,
+        "image": "https://i.ibb.co/LPLXTCv/Education.png",
+        "id": "campaign104",
+        "bg_color": "#FFE3E4",
+        "category_bg_color": "#ffc3c5",
+        "text_color": "#ff444a"
+    },
+    {
+        "category_name": "Animal Welfare",
+        "title": "Rescue and Care",
+        "description": "Rescue, shelter, and provide care for abandoned and homeless animals in distress.",
+        "price": 40.00,
+        "image": "https://i.ibb.co/8g9Rkv3/AWA_logo.jpg",
+        "id": "campaign107",
+        "bg_color": "#feeae3",
+        "category_bg_color": "#FDD2C4",
+        "text_color": "#F87147"
+    },
+    {
+        "category_name": "Environmental Protection",
+        "title": "Clean Water",
+        "description": "Ensure clean and safe drinking water for communities facing water scarcity.",
+        "price": 60.00,
+        "image": "https://i.ibb.co/XjZDM1w/SN3456_COLLECTION_HERO_ENVIRONMENT_V3.webp",
+        "id": "campaign110",
+        "bg_color": "#EBF6E2",
+        "category_bg_color": "#D4ECC1",
+        "text_color": "#79c23f"
+    },
+    {
+        "category_name": "Animal Welfare",
+        "title": "Protect Endangered Species",
+        "description": "Support initiatives to protect and conserve endangered wildlife species.",
+        "price": 45.00,
+        "image": "https://i.ibb.co/8g9Rkv3/AWA_logo.jpg",
+        "id": "campaign108",
+        "bg_color": "#feeae3",
+        "category_bg_color": "#FDD2C4",
+        "text_color": "#F87147"
+    },
+    {
+        "category_name": "Environmental Protection",
+        "title": "Green Initiatives",
+        "description": "Contribute to reforestation efforts and green initiatives to combat deforestation.",
+        "price": 55.00,
+        "image": "https://i.ibb.co/XjZDM1w/SN3456_COLLECTION_HERO_ENVIRONMENT_V3.webp",
+        "id": "campaign111",
+        "bg_color": "#EBF6E2",
+        "category_bg_color": "#D4ECC1",
+        "text_color": "#79c23f"
+    },
+    {
+        "category_name": "Education",
+        "title": "Digital Learning Initiative",
+        "description": "Promote digital learning and education for students in underserved communities.",
+        "price": 70.00,
+        "image": "https://i.ibb.co/LPLXTCv/Education.png",
+        "id": "campaign105",
+        "bg_color": "#FFE3E4",
+        "category_bg_color": "#ffc3c5",
+        "text_color": "#ff444a"
+    },
+    {
+        "category_name": "Healthcare",
+        "title": "Support for Cancer Patients",
+        "description": "Provide support and care for cancer patients during their treatment journey.",
+        "price": 55.00,
+        "image": "https://i.ibb.co/ckq2n08/Health.png",
+        "id": "campaign102",
+        "bg_color": "#d9e5ff",
+        "category_bg_color": "#aec8ff",
+        "text_color": "#0052ff"
+    },
+    {
+        "category_name": "Healthcare",
+        "title": "Emergency Medical Relief",
+        "description": "Offer emergency medical relief to communities affected by disasters and crises.",
+        "price": 65.00,
+        "image": "https://i.ibb.co/ckq2n08/Health.png",
+        "id": "campaign103",
+        "bg_color": "#d9e5ff",
+        "category_bg_color": "#aec8ff",
+        "text_color": "#0052ff"
+    },
+    {
+        "category_name": "Animal Welfare",
+        "title": "Wildlife Conservation Fund",
+        "description": "Contribute to the preservation and conservation of endangered wildlife species.",
+        "price": 50.00,
+        "image": "https://i.ibb.co/8g9Rkv3/AWA_logo.jpg",
+        "id": "campaign109",
+        "bg_color": "#feeae3",
+        "category_bg_color": "#FDD2C4",
+        "text_color": "#F87147"
+    },
+    {
+        "category_name": "Environmental Protection",
+        "title": "Combatting Climate Change",
+        "description": "Support initiatives to combat climate change and reduce greenhouse gas emissions.",
+        "price": 70.00,
+        "image": "https://i.ibb.co/XjZDM1w/SN3456_COLLECTION_HERO_ENVIRONMENT_V3.webp",
+        "id": "campaign112",
+        "bg_color": "#EBF6E2",
+        "category_bg_color": "#D4ECC1",
+        "text_color": "#79c23f"
+    },
+    {
+        "category_name": "Education",
+        "title": "Digital Learning Initiative",
+        "description": "Promote digital learning and education for students in underserved communities.",
+        "price": 70.00,
+        "image": "https://i.ibb.co/LPLXTCv/Education.png",
+        "id": "campaign105",
+        "bg_color": "#FFE3E4",
+        "category_bg_color": "#ffc3c5",
+        "text_color": "#ff444a"
+    }
+]
