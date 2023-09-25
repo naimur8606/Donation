@@ -2,6 +2,7 @@ import { useLoaderData } from "react-router-dom";
 import Banner from "./Banner/Banner";
 import DonationItems from "./DonationItems/DonationItems";
 import { useState, useEffect } from "react";
+import swal from 'sweetalert';
 
 const Home = () => {
     const [DonationAllData, setDonationAllData] = useState([]);
@@ -15,8 +16,14 @@ const Home = () => {
     const catchInput = (e) => {
         e.preventDefault();
         const searchValue = e.target.search.value;
-        const searchDonation =catchDonationAllData.filter(item => item.category_name == searchValue)
-        setDonationAllData([...searchDonation])
+        const searchDonation =catchDonationAllData.filter(item => item.category_name.toLowerCase() == searchValue.toLowerCase())
+        if(searchDonation.length > 0){
+            setDonationAllData([...searchDonation])
+        }
+        else{
+            setDonationAllData([...catchDonationAllData]);
+            swal("Sorry !", "The key words are 'Health', 'Education', 'Clothing', 'Food'", "error");
+        }
     };
 
     return (

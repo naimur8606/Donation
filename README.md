@@ -1,8 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Question: Your Readme file will have at least 3 project features. Add at least five
+meaningful github commits.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Answer: 
+        Some features of this website...
+          1. Fixed Nav for all pages by responsive route.
+          2. You can see the percentage of your selected items and total items. On pie chart. 
+          3. This website contains a select page named "Donate". There you will see your selected items.
+          4. Search can be done here by search button.
+          5. You can select each donation item by looking at its details.

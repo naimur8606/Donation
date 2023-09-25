@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import DonationItem from "./DonationItem/DonationItem";
 
 const DonationItems = ({DonationAllData}) => {
