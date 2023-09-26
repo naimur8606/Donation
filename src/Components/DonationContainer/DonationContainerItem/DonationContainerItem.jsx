@@ -1,3 +1,6 @@
+/* eslint-disable react/prop-types */
+import { Link } from "react-router-dom";
+
 const DonationContainerItem = ({donationItm}) => {
     const {id, price, category_name, title, image, bg_color, category_bg_color, text_color} = donationItm;
     return (
@@ -7,7 +10,9 @@ const DonationContainerItem = ({donationItm}) => {
                 <button style={{color:text_color, backgroundColor:category_bg_color}} className="p-1 rounded">{category_name}</button>
                 <h3 className='text-[18px] font-semibold'>{title}</h3>
                 <h3 style={{color:text_color}} className='text-[18px] font-semibold'>Amount: ${price}</h3>
-                <button style={{backgroundColor:text_color}} className="p-1.5 rounded text-white">View Details</button>
+                <Link to={`/${id}`}>
+                    <button style={{backgroundColor:text_color}} className="p-1.5 rounded text-white">View Details</button>
+                </Link>
                 
             </div>
         </div>
